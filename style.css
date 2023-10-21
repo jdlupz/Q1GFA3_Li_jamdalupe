@@ -195,9 +195,85 @@
 }
 
 .referencestext{
+    color:white;
+    padding-top:20px;
+    padding-left:150px;
+    font-size:large;
+}
+
+.resource{
+    text-indent: 50px;
+}
+
+.aboutcontent{
+    background-color: rgb(67,97,45);
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    width:100vw;
+    height:585px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.abouttitle{
+    color:white;
+    padding-top:20px;
+    padding-left:90px;
+    font-family:;
+    font-size:2em;
+}
+
+.abouttext{
     text-indent: 50px;
     color:white;
     padding-top:20px;
     padding-left:150px;
     font-size:large;
+}
+
+.discussioncontent{
+    background-color: rgb(67,97,45);
+    position: relative;
+    background-size: cover;
+    background-position: right;
+    width:100vw;
+    height:585px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.discussionparameters{
+    color:white;
+    padding-top:20px;
+    padding-left:90px;
+    font-family:;
+    font-size:2em;
+}
+
+.discussionconclusion{
+    color:white;
+    padding-top:20px;
+    padding-left:90px;
+    font-family:;
+    font-size:2em;
+}
+
+.discussionvariables{
+    text-indent: 50px;
+    color:white;
+    padding-top:20px;
+    padding-left:150px;
+    font-size:large;
+}
+
+.menubar{
+    float: left;
+    background-color:rgb(122, 125, 58);
+    position: relative;
+    text-align: left;
+    width:15vw;
+    height:585px;
+    padding: 0px;
+    margin: 0px;
 }
